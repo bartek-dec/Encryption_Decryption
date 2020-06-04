@@ -1,7 +1,6 @@
 # Encryption-Decryption
 
-### This is a console project to encrypt text to/decrypt text from Caesar cypher 
-### using 2 algorithms: 
+### This is a console project to encrypt text to/decrypt text from Caesar cypher using 2 algorithms: 
 ### - unicode (it is based on a unicode table and shifts every sign by the specified number),
 ### - shift (it shifts each letter by the specified number according to its order in the alphabet in a circle).
 
